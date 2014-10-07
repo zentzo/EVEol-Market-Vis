@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # osx noise
 .DS_Store
 profile
@@ -16,3 +17,39 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+=======
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+>>>>>>> 859d9678c1965eb22bcb506a4070e77309a29320
