@@ -1,0 +1,8 @@
+Data from eveCentral is: <?xml version='1.0' encoding='utf-8'?>
+<evec_api version="2.0" method="marketstat_xml">
+      <marketstat><type id="34">
+          <buy><volume>25974896760</volume><avg>5.25</avg><max>5.48</max><min>3.10</min><stddev>0.54</stddev><median>5.36</median><percentile>5.45</percentile></buy>
+          <sell><volume>18829595141</volume><avg>5.89</avg><max>11.25</max><min>5.55</min><stddev>0.67</stddev><median>5.72</median><percentile>5.56</percentile></sell>
+          <all><volume>44814491901</volume><avg>5.51</avg><max>11.25</max><min>1.00</min><stddev>0.87</stddev><median>5.44</median><percentile>4.32</percentile></all>
+        </type></marketstat>
+    </evec_api>
